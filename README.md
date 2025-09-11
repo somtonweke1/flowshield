@@ -120,7 +120,7 @@ docker-compose down
 - **CI/CD**: GitHub Actions
 - **Cloud Ready**: AWS, Heroku, Railway, Vercel
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 FlowShield/
@@ -146,7 +146,7 @@ FlowShield/
 └── docs/                  # Documentation
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
