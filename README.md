@@ -2,38 +2,38 @@
 
 FlowShield is a comprehensive no-code API platform that integrates billing/payroll tools like Stripe and QuickBooks, using AI to detect cashflow leaks, predict shortfalls 90 days out, and deploy micro-liquidity buffers with 0% APR for under 30 days.
 
-## ✨ Features
+##  Features
 
-### 🤖 AI-Powered Analytics
+### AI-Powered Analytics
 - **Cashflow Leak Detection**: AI algorithms identify unusual spending patterns and potential revenue leaks
 - **90-Day Shortfall Prediction**: Machine learning models forecast cashflow shortfalls with high accuracy
 - **Smart Recommendations**: AI-driven suggestions for optimizing cashflow and reducing expenses
 
-### 💰 Micro-Liquidity Buffers
+###  Micro-Liquidity Buffers
 - **0% APR Financing**: Interest-free cash buffers for up to 30 days
 - **Instant Approval**: AI-powered risk assessment for immediate access
 - **Flexible Repayment**: No early repayment penalties or hidden fees
 - **Automated Management**: Seamless request, tracking, and repayment system
 
-### 🔗 Integration Hub
+###  Integration Hub
 - **Stripe Integration**: Real-time payment processing and analytics
 - **QuickBooks Sync**: Automated accounting data synchronization
 - **CSV Upload**: Bulk data import for historical analysis
 - **API-First Design**: RESTful APIs for custom integrations
 
-### 📊 Advanced Analytics
+###  Advanced Analytics
 - **Interactive Dashboards**: Real-time cashflow visualization
 - **Predictive Charts**: AI-powered forecasting and trend analysis
 - **Custom Reports**: Generate detailed financial insights
 - **Export Capabilities**: Download reports in multiple formats
 
-### 🔒 Enterprise Security
+###  Enterprise Security
 - **JWT Authentication**: Secure user authentication and authorization
 - **Rate Limiting**: Protection against abuse and DDoS attacks
 - **Data Encryption**: End-to-end encryption for sensitive data
 - **Audit Logging**: Comprehensive activity tracking
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -93,7 +93,7 @@ docker-compose logs -f
 docker-compose down
 ```
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Backend (Node.js + Express)
 - **Framework**: Express.js with TypeScript
@@ -191,7 +191,7 @@ REACT_APP_API_URL=http://your-api-url
 - `POST /api/liquidity/request` - Request buffer
 - `POST /api/liquidity/repay` - Repay buffer
 
-## 🚀 Deployment
+##  Deployment
 
 ### Cloud Platforms
 
@@ -212,7 +212,7 @@ REACT_APP_API_URL=http://your-api-url
 
 For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -220,17 +220,17 @@ For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+##  Support
 
 - **Documentation**: [DEPLOYMENT.md](./DEPLOYMENT.md)
 - **Issues**: [GitHub Issues](https://github.com/your-username/flowshield/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-username/flowshield/discussions)
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Real-time notifications
 - [ ] Advanced AI models
